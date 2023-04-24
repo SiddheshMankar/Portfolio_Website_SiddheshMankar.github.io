@@ -847,9 +847,9 @@ footer{
     display: none;
 
   }
-  .hero-section{
+  /* .hero-section{
     flex-direction: column;
-  }
+  } */
   .hero-section-left{
     width: 100%;
   }
