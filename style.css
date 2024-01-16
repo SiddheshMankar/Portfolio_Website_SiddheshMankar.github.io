@@ -459,19 +459,13 @@ a{
 
   }
   #project1{
-    background-image: url(./images/projects/sidpro1.png);
+    background-image: url(./images/stack/AlgoViz.png);
   }
   #project2{
     margin-left: 120px;
-    background-image: url(./images/projects/sidpro2.png);
+    background-image: url(./images/stack/Recordify.png);
   }
-  #project3{
-    background-image: url(./images/projects/Project3.png);
-  }
-  #project4{
-    margin-left: 120px;
-    background-image: url(./images/projects/Project4.png);
-  }
+   */
 
   
   @media (max-width:1300px) {
@@ -946,7 +940,7 @@ footer{
       position: relative;
       width: 100%;
       height: 203px;
-      background-image: url(./projects/Project1.png);
+      background-image: url(./projects/sidpro1.png);
       background-size:cover;
       background-repeat: no-repeat;
       box-shadow: 0px 0px 40px #1f1f1f;
@@ -1004,7 +998,7 @@ footer{
       transition: all 0.5s;
   }
   #project2{
-      background-image: url(./projects/sidpro1.png);
+      background-image: url(./projects/sidpro2.png);
       margin-left: 0px;
       background-size:100%;
   }
